@@ -1,8 +1,8 @@
 import pygame
 import random
 
-WIDTH = 800
-HEIGHT = 600
+WIDTH = 850
+HEIGHT = 660
 BALL_SIZE = 20
 BALL_SPEED = 4
 
